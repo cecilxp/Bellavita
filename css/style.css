@@ -9,7 +9,7 @@ button {
     margin-top: 20px;
     cursor: pointer;
     /* Font cinese di base */
-    font-family: "Microsoft JhengHei", "微软雅黑", "PingFang SC", "Helvetica Neue", sans-serif;
+    font-family: "Microsoft JhengHei", sans-serif;
 }
 
 #randomTerm {
@@ -17,5 +17,5 @@ button {
     font-weight: bold;
     margin-top: 20px;
     /* Font cinese di base */
-    font-family: "Microsoft JhengHei", "微软雅黑", "PingFang SC", "Helvetica Neue", sans-serif;
+    font-family: "Microsoft JhengHei", sans-serif;
 }
