@@ -8,14 +8,14 @@ button {
     padding: 10px 20px;
     margin-top: 20px;
     cursor: pointer;
-    /* Stile Kawaii per il font cinese */
-    font-family: "Mf Jang Geum", "Mf Tzu Yuan", "Mf Sippin On Sunshine", "Mf Love Song", sans-serif;
+    /* Font cinese di base */
+    font-family: "Microsoft JhengHei", "微软雅黑", "PingFang SC", "Helvetica Neue", sans-serif;
 }
 
 #randomTerm {
     font-size: 20px;
     font-weight: bold;
     margin-top: 20px;
-    /* Stile Kawaii per il font cinese */
-    font-family: "Mf Jang Geum", "Mf Tzu Yuan", "Mf Sippin On Sunshine", "Mf Love Song", sans-serif;
+    /* Font cinese di base */
+    font-family: "Microsoft JhengHei", "微软雅黑", "PingFang SC", "Helvetica Neue", sans-serif;
 }
