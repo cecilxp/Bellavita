@@ -8,10 +8,14 @@ button {
     padding: 10px 20px;
     margin-top: 20px;
     cursor: pointer;
+    /* Stile Kawaii per il font */
+    font-family: "Segoe Print", "Segoe Script", sans-serif;
 }
 
 #randomTerm {
     font-size: 20px;
     font-weight: bold;
     margin-top: 20px;
+    /* Stile Kawaii per il font */
+    font-family: "Segoe Print", "Segoe Script", sans-serif;
 }
