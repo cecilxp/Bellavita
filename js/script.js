@@ -1,9 +1,19 @@
 const terminiPrefissati = [
-    "cane",
-    "gatto",
-    "pesce",
-    "uccello",
-    "elefante"
+    "運動",
+    "早睡",
+    "早起",
+    "電影",
+    "音樂"，
+    "唱歌",
+    "跳舞",
+    "寫字",
+    "旅行",
+    "喝茶"，
+    "聞香"，
+    "插畫",
+    "插花",
+    "靜坐",
+    "閲讀"
 ];
 
 function generaTermineCasuale() {
